@@ -128,10 +128,10 @@ video 42 of 51
 - videossa käydään läpi JSON(Javascript Object Notation) ja kerrotaan miten se toimii käytännössä esim jsonilla tehtiin videossa kirjasta objecti ja demotaan se
 
 video 43 of 51
--
+- videossaa kerrotaan mitä objectit ovat java scriptissä esim kirja on objecti kun taas kirjan nimi on property
 
 video 44 of 51
--
+- videossaa kerrotaan mitä objectit ovat java scriptissä esim kirja on objecti kun taas kirjan nimi on property ja demotaan se
 
 video 45 of 51
 -
