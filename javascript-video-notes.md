@@ -80,52 +80,52 @@ video 26 of 51
 - videossa opetetaan boole logiikkaa javascriptissä miten se toimii ja mitä se sisältää Esim. != ja !== ja demotaan se
 
 video 27 of 51
--
+- videossa käydään läpi boolean logiikkaa vähän syvällisemmin  kuten combining comparisions
 
 video 28 of 51
--
+- videossa käydään läpi boolean logiikkaa vähän syvällisemmin  kuten combining comparisions ja demotaan se 
 
 video 29 of 51
--
+- videossa opetetaan mikä on Array (lista tai collectioni of values)
 
 video 30 of 51
--
+- videossa opetetaan mikä on Array (lista tai collectioni of values) ja demotaan se 
 
 video 31 of 51
--
+- videossa kerrotaan kuinka lisätä arrayhy dataa arrayn luonnin aikana
 
 video 32 of 51
--
+- videossa kerrotaan kuinka lisätä arrayhy dataa arrayn luonnin aikana ja demotaan
 
 video 33 of 51
--
+- videossa opetetaan manipuloimaan arrayta ja käytämään push and pop ominaisuuksia
 
 video 34 of 51
--
+- videossa opetetaan manipuloimaan arrayta ja käytämään push and pop ominaisuuksia ja demotaan se
 
 video 35 of 51
--
+- Videossa käydään läpi looppeja javascriptissä ja käydään läpi for loop ja wihle loop
 
 video 36 of 51
--
+- Videossa käydään läpi looppeja javascriptissä ja käydään läpi for loop ja wihle loop ja demotaan se
 
 video 37 of 51
--
+- videossa käydään läpi funktioita ja käydään myös perusteet niihin esim kerrotaan se että voit määrittää rutiinin sille
 
 video 38 of 51
--
+- videossa käydään läpi funktioita ja käydään myös perusteet niihin ja demotaan niitä
 
 video 39 of 51
--
+- videossa opetetaan käyttämään arrow functiota ja kerrotaan myös se että sillä voidaan tehdä kkodista simpelimmän näköistä
 
 video 40 of 51
--
+-videossa opetetaan käyttämään arrow functiota ja kerrotaan myös se että sillä voidaan tehdä kkodista simpelimmän näköistä ja demotaan se 
 
 video 41 of 51
--
+- videossa käydään läpi JSON(Javascript Object Notation) ja kerrotaan miten se toimii käytännössä esim jsonilla tehtiin videossa kirjasta objecti
 
 video 42 of 51
--
+- videossa käydään läpi JSON(Javascript Object Notation) ja kerrotaan miten se toimii käytännössä esim jsonilla tehtiin videossa kirjasta objecti ja demotaan se
 
 video 43 of 51
 -
