@@ -134,22 +134,22 @@ video 44 of 51
 - videossaa kerrotaan mitä objectit ovat java scriptissä esim kirja on objecti kun taas kirjan nimi on property ja demotaan se
 
 video 45 of 51
--
+- videossa käydään läpi sitä kuinka teet promisesa pitkiä prosesseja vartern
 
 video 46 of 51
--
+-videossa käydään läpi sitä kuinka teet promisesa pitkiä prosesseja vartern ja demotaan se
 
 video 47 of 51
--
+- videossa käydään läpi asunc/await ja kerrotaan että sitä käytetään promisen kanssa samoissa functioissa
 
 video 48 of 51
--
+-videossa käydään läpi asunc/await ja kerrotaan että sitä käytetään promisen kanssa samoissa functioissa ja demotaan se
 
 video 49 of 51
--
+- videossa käydään läpi package ja mitä se on esim libraries on yksi package niin kuin myös kaikki toolsit
 
 video 50 of 51
--
+- videossa käydään läpi package ja mitä se on esim libraries on yksi package niin kuin myös kaikki toolsit ja demotaan se
 
 video 51 of 51
--
+- videossa kerrotaan mitä tehdä seuraavaksi ja toivotaan että video sarjasta oli apua javascriptin ymmärtämiseen
